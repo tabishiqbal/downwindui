@@ -1,4 +1,4 @@
 # DownwindUI
 TailwindCSS Components
 
-[logo]: https://ca.slack-edge.com/T0BRFRYBU-U38SVPJ1X-6c6928633367-512 "DownwindUI Logo"
+![alt text](https://ca.slack-edge.com/T0BRFRYBU-U38SVPJ1X-6c6928633367-512 "DownwindUI Logo")
